@@ -63,8 +63,8 @@ export default StyleSheet.create({
         margin: 10,
     },
     imageItem: {
-        width: 80,
-        height: 80,
+        width: 200,
+        height: 300,
         borderRadius: 15,
     },
     

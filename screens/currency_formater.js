@@ -1,6 +1,6 @@
 export function currency(value, isDecimal, valueOnly) {
 
-    let idr = "$"
+    let idr = "Rp"
 
     let formatedValue = ''
 
